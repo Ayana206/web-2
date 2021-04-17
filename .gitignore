@@ -108,5 +108,5 @@ Thumbs.db
 .idea
 
 my-first-env/
-second-env/
+venv2/
 env/
